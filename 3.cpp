@@ -1,4 +1,8 @@
 // 3. Calculate the Sum of Elements
+// Description: Calculate the sum of all elements in an array.
+
+// Input: [1, 2, 3, 4, 5]
+// Output: 15
 
 #include<iostream>
 using namespace std;

@@ -1,4 +1,8 @@
-//   1. Find the Maximum Element
+// 1. Find the Maximum Element
+// Description: Given an array of integers, find the maximum element.
+
+// Input: [3, 5, 7, 2, 8]
+// Output: 8
 
 #include<iostream>
 using namespace std;

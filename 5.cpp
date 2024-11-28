@@ -1,4 +1,8 @@
 // 5. Count Even Numbers
+// Description: Count the number of even integers in an array.
+
+// Input: [1, 2, 3, 4, 5, 6]
+// Output: 3
 
 #include<iostream>
 using namespace std;

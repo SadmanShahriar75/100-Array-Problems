@@ -1,4 +1,8 @@
 // 4. Calculate the Average of Elements
+// Description: Find the average value of the elements in an array.
+
+// Input: [2, 4, 6, 8, 10]
+// Output: 6
 
 #include<iostream>
 using namespace std;
