@@ -21,7 +21,7 @@ int main() {
     int nums[] = {1, 2, 3, 4, 5}; 
     int n = sizeof(nums) / sizeof(int); 
     vector<int> reversed = reverseArray(nums, n);
-     for(int i = 0; i < n; i++) {
+    for(int i = 0; i < n; i++) {
         cout << reversed[i] << " "; 
     }
 }
